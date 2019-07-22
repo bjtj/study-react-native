@@ -16,7 +16,7 @@ brew install watchman # file modification detector
 **react-native-cli**
 
 ```
-enpm install -g react-native-cli
+npm install -g react-native-cli
 ```
 
 **adb path**
